@@ -13,10 +13,10 @@
 - 😎 Fun fact: I love collabrating and playing online games with friends and randoms. I am secretly working on a project for gamers.
 
 ### Repos I own in Monotype
-![Vue Component Library](https://github.com/Monotype/vue-component-library)
-![mt-digital-pattern-library](https://github.com/Monotype/mt-digital-pattern-library)
-![mt-component-library](https://github.com/Monotype/mt-component-library/)
-![Monotype Toastmater's Club website](https://github.com/sumit-mann/monotypetpastmasters.github.io)
+- [Vue Component Library](https://github.com/Monotype/vue-component-library)
+- [mt-digital-pattern-library](https://github.com/Monotype/mt-digital-pattern-library)
+- [mt-component-library](https://github.com/Monotype/mt-component-library/)
+- [Monotype Toastmater's Club website](https://github.com/sumit-mann/monotypetpastmasters.github.io)
 
 ### How to Reach Me
 - 📬 Email: sumit.mann@monotype.com/sumitmann93@gmail.com
