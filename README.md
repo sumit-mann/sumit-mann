@@ -19,5 +19,5 @@
 - [Monotype Toastmater's Club website](https://github.com/sumit-mann/monotypetpastmasters.github.io)
 
 ### How to Reach Me
-- 📬 Email: sumit.mann@monotype.com/sumitmann93@gmail.com
+- 📬 Email: sumit.mann@monotype.com / sumitmann93@gmail.com
 - 👤 LinkedIn: https://www.linkedin.com/in/sumitmann/
