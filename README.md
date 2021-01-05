@@ -10,7 +10,7 @@
 ### What I'm Up To 
 - 🌱 I’m currently learning AWS, REACT, WEB-COMPONENTS, STENCIL.JS, FLUTTER...
 - 🔭 I’m driving by-weekly front end guild meetings. In front end guild we are working on design system for Monotype.
-- 😎 Fun fact: I love collabrating and playing online games with friends and randoms. I am secretly working on a project for gamers.
+- 😎 Fun fact: I love collaborating and playing online games with friends and randoms. I am secretly working on a project for gamers.
 
 ### Repos I own
 - [Vue Component Library](https://github.com/Monotype/vue-component-library)
