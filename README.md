@@ -5,7 +5,7 @@
 ### Hi there, my name is Sumit Mann! 👋 
 
 ### About Me 
-- 👨 I am working as Front end developer in Mosaic Tribe.
+- 👨 I am leading as Front end development work in Mosaic Tribe.
 
 ### What I'm Up To 
 - 🌱 I’m currently learning AWS, REACT, WEB-COMPONENTS, STENCIL.JS, FLUTTER...
